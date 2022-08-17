@@ -155,7 +155,7 @@ enum _Dir {
 /**
  * Functions to operate NeoPixel strips.
  */
-//% color=#0078D7 icon="\uf00a"
+//% weight=10 color=#019b9b icon="\uf121" block="Matrix"
 namespace Matrix {
     /**
      * A NeoPixel strip

@@ -1,7 +1,7 @@
 {
-    "name": "matrix",
-    "version": "0.0.0",
-    "description": "This library is DFRobot matrix 8*8.",
+    "name": "Matrix",
+    "version": "1.0.0",
+    "description": "Matrix @THYCoding </>",	
     "license": "MIT",
     "dependencies": {
         "core": "*",
