@@ -1,7 +1,7 @@
 {
-    "name": "NeoMatrix",
+    "name": "Matrix",
     "version": "1.0.0",
-    "description": "NeoMatrix @THYCoding </>",	
+    "description": "Matrix @THYCoding </>",	
     "license": "MIT",
     "dependencies": {
         "core": "*",
