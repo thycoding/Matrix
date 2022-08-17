@@ -1,11 +1,10 @@
 {
-    "name": "Matrix",
+    "name": "NeoMatrix",
     "version": "1.0.0",
-    "description": "Matrix @THYCoding </>",	
+    "description": "NeoMatrix @THYCoding </>",	
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "radio": "*",
         "ws2812b": "github:Microsoft/pxt-ws2812b#v0.0.4"
     },
     "files": [
